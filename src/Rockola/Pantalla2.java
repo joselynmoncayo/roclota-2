@@ -89,6 +89,7 @@ public class Pantalla2 extends javax.swing.JFrame {
        r.lista();
        
         r.setVisible(true);
+        
        
     }//GEN-LAST:event_receptorActionPerformed
 
