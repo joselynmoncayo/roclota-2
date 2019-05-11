@@ -14,6 +14,7 @@ import javax.swing.JPanel;
 import java.awt.Cursor;
 import java.awt.Point;
 import java.awt.Toolkit;
+import java.io.File;
 /**
  *
  * @author MARQUEZA PC
@@ -83,7 +84,11 @@ public class Pantalla2 extends javax.swing.JFrame {
 
     private void receptorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_receptorActionPerformed
        Rocola r = new Rocola();
-       r.setVisible(true);
+       
+      
+       r.lista();
+       
+        r.setVisible(true);
        
     }//GEN-LAST:event_receptorActionPerformed
 
