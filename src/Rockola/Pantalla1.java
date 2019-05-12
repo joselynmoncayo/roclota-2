@@ -7,7 +7,7 @@ package Rockola;
 
 import com.sun.awt.AWTUtilities;
 import javax.swing.ImageIcon;
-
+// El cambio jaja
 /**
  *
  * @author MARQUEZA PC
